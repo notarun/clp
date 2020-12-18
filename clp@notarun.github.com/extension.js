@@ -33,7 +33,7 @@ class Clp {
   }
 
   pick(ev) {
-    if (ev.get_event_type() !== Gdk.EventType.BUTTON_PRESS)
+    if (ev.get_event_type() !== Gdk.EventType.BUTTON_RELEASE)
       return;
 
     const [, x, y,] = this._win.get_device_position_double(ev.get_device());
