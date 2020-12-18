@@ -1,0 +1,7 @@
+{
+  "name": "clp",
+  "description": "a minimal color picker for gnome shell.",
+  "uuid": "clp@notarun.github.com",
+  "shell-version": ["3.36"],
+  "url": "https://github.com/notarun/clp"
+}
