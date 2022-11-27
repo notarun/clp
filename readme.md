@@ -1,3 +1,6 @@
+⚠ **DEPRECATED**: broken in newer gnome version,
+use [https://github.com/tuberry/color-picker](https://github.com/tuberry/color-picker) intead.
+
 ## clp
 a minimal color picker for gnome shell.
 
